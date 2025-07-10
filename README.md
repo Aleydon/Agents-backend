@@ -1,8 +1,14 @@
-# agents-backend
+<h2 align='center'>Agents</h2>
 
-NLW - Agents (backend)
-
-This project is the backend for the NLW Agents application, built with Node.js, Fastify, and Drizzle ORM.
+<p align="center">
+<img alt="javascript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+<img alt="typescript-logo" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+<img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white" />
+<img alt="drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000" />
+<img alt="postgres-logo" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+<img alt="gemini-logo" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+</p>
 
 ## Technologies
 
